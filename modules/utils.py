@@ -20,4 +20,4 @@ def write_to_file(todos,file_path):
         f.writelines(todos)
 
 
-print("Hello from outside")
+
